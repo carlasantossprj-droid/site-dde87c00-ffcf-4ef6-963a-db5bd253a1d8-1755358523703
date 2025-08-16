@@ -1,0 +1,13 @@
+{
+  "name": "site-dde87c00-ffcf-4ef6-963a-db5bd253a1d8-1755358523703",
+  "version": "1.0.0",
+  "description": "Site testenumero100",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
